@@ -1,0 +1,21 @@
+{
+  "name": "bmc-dark",
+  "displayName": "BMC Dark",
+  "description": "BMC VS Code Dark Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BMC Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BMC Dark-color-theme.json"
+      }
+    ]
+  }
+}
